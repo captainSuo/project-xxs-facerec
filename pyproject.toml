@@ -1,0 +1,10 @@
+[project]
+name = "project-xxs-facerec"
+version = "0.1.0"
+description = "SI100B Project Face Detection and emotion classification"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.7",
+    "opencv-python>=4.12.0.88",
+]
